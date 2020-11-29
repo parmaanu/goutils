@@ -1,0 +1,2 @@
+# goutils
+Some helper functions
